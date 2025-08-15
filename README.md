@@ -1,3 +1,8 @@
+<img src="https://raw.githubusercontent.com/harshpal-coder/harshpal-coder/output/snake.svg" alt="Snake animation" />
+
+###
+###
+
 ## Hi there 👋
 
 <!--
