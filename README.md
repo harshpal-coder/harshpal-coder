@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+# 💫 Hi 👋, I'm Harsh Pal
+
+
 # 💫 About Me:
 🎓 I’m a 2026 B.Tech graduate.<br>💻 Full Stack Web Developer specializing in building scalable, user-focused web applications.<br>🌐 I’m skilled in JavaScript, React.JS, and Next.JS for modern UI development.<br>💡 I’m a constant learner, always exploring new technologies and better ways to code.<br>⚡ Fun fact: Coffee Runs in My Veins, and JavaScript Runs in My Brain ☕🧠
 
