@@ -10,6 +10,15 @@
 
 </div>
 
+<br/>
+
+<!-- ═══════════════════════════ OPEN TO WORK BANNER ═══════════════════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=50&text=🚀%20Open%20to%20Internships%20%26%20Full-time%20Roles%20—%20Let's%20Build%20Something%20Great!&fontSize=16&fontColor=fff&animation=fadeIn" width="100%"/>
+
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -22,6 +31,7 @@ const harshPal = {
   college     : "AXIS Institute of Technology and Management (AITM), Kanpur",
   passion     : "Building scalable, user-focused web applications",
   learning    : ["System Design", "Cloud Architecture", "DevOps"],
+  available   : true, // Open to internships & full-time roles 🚀
   funFact     : "Coffee runs in my veins, JavaScript runs in my brain ☕🧠",
 };
 ```
@@ -40,6 +50,22 @@ const harshPal = {
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/harshpal-coder)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/harshpal-coder)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshpal.coder@gmail.com)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ SPOTIFY NOW PLAYING ═══════════════════════════ -->
+<!-- 
+  🎵 SPOTIFY SETUP (one-time, takes ~5 mins):
+  1. Go to https://github.com/novatorem/novatorem
+  2. Click "Deploy to Vercel" and connect your Spotify account
+  3. Replace YOUR_VERCEL_APP_URL below with your deployed app URL
+-->
+
+<div align="center">
+
+[![Spotify](https://novatorem-harshpal-coder.vercel.app/api/spotify)](https://open.spotify.com)
 
 </div>
 
@@ -68,47 +94,51 @@ const harshPal = {
 
 ## 💻 Tech Stack
 
+<!-- ═══════════════════════════ SKILL ICONS GRID ═══════════════════════════ -->
+
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
+
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+
+</div>
 
 **Backend & APIs**
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+<div align="center">
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark)](https://skillicons.dev)
+
+</div>
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark)](https://skillicons.dev)
+
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+</div>
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<div align="center">
+
+[![Cloud Skills](https://skillicons.dev/icons?i=aws,gcp,vercel,git,github&theme=dark)](https://skillicons.dev)
+
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+</div>
 
 **Other Tools & Languages**
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+<div align="center">
+
+[![Other Skills](https://skillicons.dev/icons?i=cpp,flutter,ai,xd&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -154,6 +184,17 @@ const harshPal = {
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/harshpal-coder/harshpal-coder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ RANDOM DEV QUOTE ═══════════════════════════ -->
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
