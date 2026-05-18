@@ -19,6 +19,7 @@ const harshPal = {
   role        : "Full Stack Web Developer",
   graduating  : 2026,
   location    : "India 🇮🇳",
+  college     : "AXIS Institute of Technology and Management (AITM), Kanpur",
   passion     : "Building scalable, user-focused web applications",
   learning    : ["System Design", "Cloud Architecture", "DevOps"],
   funFact     : "Coffee runs in my veins, JavaScript runs in my brain ☕🧠",
@@ -39,6 +40,27 @@ const harshPal = {
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/harshpal-coder)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/harshpal-coder)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshpal.coder@gmail.com)
+
+</div>
+
+---
+
+## 🏅 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ro3lrYgAwh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/harshpal_coder)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/hardy_noble_67)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/harshpa9wj1)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Ro3lrYgAwh?theme=dark&font=JetBrains%20Mono&ext=contest&hide=ranking" width="60%" alt="LeetCode Stats"/>
 
 </div>
 
